@@ -104,8 +104,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "DSCO9"
+  avatar           : # path of avatar image, e.g. "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amarilla.co%2Fproducto%2Fprobador%2Bde%2Bactuadores%2C%2Bsensores%2By%2Bcuerpos%2Bde%2Baceleracion%2F8073&psig=AOvVaw04gi998enLtgmJzWN6gOCe&ust=1676559134136000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiwpdjjl_0CFQAAAAAdAAAAABAD"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
